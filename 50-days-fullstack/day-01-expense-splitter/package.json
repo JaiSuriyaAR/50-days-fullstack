@@ -1,0 +1,10 @@
+{
+  "name": "expense-splitter",
+  "version": "1.0.0",
+  "description": "Day 1 - CLI expense splitter using modern JavaScript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
